@@ -1,9 +1,9 @@
 # ❄️ Template Climate
 
 [![HACS Badge](https://img.shields.io/badge/HACS-Custom-41BDF5.svg?style=for-the-badge)](https://github.com/hacs/integration)
-[![License](https://img.shields.io/github/license/jcwillox/hass-template-climate?style=for-the-badge)](https://github.com/jcwillox/hass-template-climate/blob/main/LICENSE)
-[![Latest Release](https://img.shields.io/github/v/release/jcwillox/hass-template-climate?style=for-the-badge)](https://github.com/jcwillox/hass-template-climate/releases)
-[![Size](https://img.badgesize.io/https:/github.com/jcwillox/hass-template-climate/releases/latest/download/climate_template.zip?style=for-the-badge)](https://github.com/jcwillox/hass-template-climate/releases)
+[![License](https://img.shields.io/github/license/haext/template-climate?style=for-the-badge)](https://github.com/haext/template-climate/blob/main/LICENSE)
+[![Latest Release](https://img.shields.io/github/v/release/haext/template-climate?style=for-the-badge)](https://github.com/haext/template-climate/releases)
+[![Size](https://img.badgesize.io/https:/github.com/haext/template-climate/releases/latest/download/climate_template.zip?style=for-the-badge)](https://github.com/haext/template-climate/releases)
 [![Code style](https://img.shields.io/badge/code%20style-black-000000.svg?style=for-the-badge)](https://github.com/psf/black)
 
 The `climate_template` platform creates climate devices that combine integrations and provides the ability to run scripts or invoke services for each of the `set_*` commands of a climate entity.
